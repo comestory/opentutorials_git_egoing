@@ -2,10 +2,8 @@
 	<head>
 		<title>GIT</title>
 	</head>
-<<<<<<< HEAD
-=======
+
 <head>Git 소개</head>
->>>>>>> ?ㅽ뿕
 	<body>
 		<header>
 		<h1>Git</h1>
@@ -14,6 +12,8 @@
 			<li>저장소</li>
 			<li>버전</li>
 			<li>Branch</li>
+			<li>브랜치</li>
+
 		<ul>
 	</body>
 </html>
