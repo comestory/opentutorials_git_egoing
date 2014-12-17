@@ -5,7 +5,7 @@
 <<<<<<< HEAD
 =======
 <head>Git ¼Ò°³</head>
->>>>>>> ì‹¤í—˜
+>>>>>>> ?¤í—˜
 	<body>
 		<header>
 		<h1>Git</h1>
@@ -13,6 +13,7 @@
 		<ul>
 			<li>ÀúÀå¼Ò</li>
 			<li>¹öÀü</li>
+			<li>Branch</li>
 		<ul>
 	</body>
 </html>
