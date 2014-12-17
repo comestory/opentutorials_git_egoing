@@ -1,5 +1,9 @@
 <html>
+<<<<<<< HEAD
 	<body>
 <header></header>
 	</body>
+=======
+	<body></body>
+>>>>>>> parent of 7d57214... header tag 추가
 </html>
