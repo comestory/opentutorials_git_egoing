@@ -2,7 +2,7 @@
 	<head>
 		<title>GIT</title>
 	</head>
-<head></head>
+<head>Git ¼Ò°³</head>
 	<body>
 		<header>
 		<h1>Git</h1>
