@@ -1,8 +1,14 @@
 <html>
-<<<<<<< HEAD
+	<head>
+		<title>GIT</title>
+	</head>
 	<body>
-<header></header
->
-=======
->>>>>>> parent of 3fa04b7... body tag ì¶”ê°€
+		<header>
+		<h1>Git</h1>
+		</header>
+		<ul>
+			<li>ÀúÀå¼Ò</li>
+			<li>¹öÀü</li>
+		<ul>
+	</body>
 </html>
