@@ -1,5 +1,8 @@
 <html>
+<<<<<<< HEAD
 	<body>
 <header></header
 >
+=======
+>>>>>>> parent of 3fa04b7... body tag 추가
 </html>
