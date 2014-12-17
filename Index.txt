@@ -2,6 +2,10 @@
 	<head>
 		<title>GIT</title>
 	</head>
+<<<<<<< HEAD
+=======
+<head>Git ¼Ò°³</head>
+>>>>>>> ì‹¤í—˜
 	<body>
 		<header>
 		<h1>Git</h1>
